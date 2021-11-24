@@ -1,0 +1,22 @@
+{
+  "name": "npm_unicorn_test",
+  "version": "1.0.0",
+  "description": "This test for npm and I a glad to start open source projects from this step ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksanderKarmazin/npm_unicorn_test.git"
+  },
+  "keywords": [
+    "unicorn"
+  ],
+  "author": "Aleksandr Karmazin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksanderKarmazin/npm_unicorn_test/issues"
+  },
+  "homepage": "https://github.com/AleksanderKarmazin/npm_unicorn_test#readme"
+}
