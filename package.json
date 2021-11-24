@@ -1,7 +1,7 @@
 {
   "name": "npm_unicorn_test",
   "version": "1.0.0",
-  "description": "This test for npm and I a glad to start open source projects from this step ",
+  "description": "This test for npm and I am glad to start open source projects from this step ",
   "main": "index.js",
   "scripts": {
     "test": "test"
