@@ -4,7 +4,7 @@
   "description": "This test for npm and I am glad to start open source projects from this step ",
   "main": "index.js",
   "scripts": {
-
+    "test": "echo \"No test specified\""
   },
   "repository": {
     "type": "git",
